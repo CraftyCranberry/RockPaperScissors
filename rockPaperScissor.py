@@ -42,3 +42,5 @@ while True:
         print("You Win")
     elif isWin(userInput, comp) is False:
         print("You Loose")
+
+# This marks the end of the program
